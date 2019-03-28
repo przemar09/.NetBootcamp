@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Domain\OrderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ReaderXmlTest.cs" />
     <Compile Include="Services\OrderRaportsTest.cs" />
   </ItemGroup>
   <ItemGroup>
